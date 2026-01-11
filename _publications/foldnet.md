@@ -8,8 +8,8 @@ title: "FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding v
 authors: "<i> Yuxing Chen, <b>Bowen Xiao</b>, He Wang<sup>†</sup> </i>"
 
 paper_url: https://arxiv.org/abs/2505.09109                               # paper link
-mainpage_url: https://arxiv.org/abs/2505.09109                            # main page link
-code_url: https://github.com/Bowie375/FoldNet                             # code link
+mainpage_url: https://pku-epic.github.io/FoldNet/                         # main page link
+code_url: https://github.com/chen01yx/garmentds                           # code link
 
 excerpt: 'We builds a pipeline for automatic cloth generation and trained a diffusion policy for cloth folding using just synthetic data.'
 

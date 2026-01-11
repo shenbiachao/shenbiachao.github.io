@@ -9,7 +9,7 @@ authors: "<i> Yuxing Chen, Songlin Wei, <b>Bowen Xiao</b>, Jiangran Lyu, Jiayi C
 
 paper_url: https://arxiv.org/abs/2412.01083
 mainpage_url: https://arxiv.org/abs/2412.01083
-code_url: https://github.com/Bowie375/RoboHanger
+code_url: https://gitee.com/chen01yx/robohang
 
 excerpt: 'We proposed a primitive-based robotic cloth hanging algorithm, it achieved 75% success rate with 8 different unseen garments in the real world.'
 
