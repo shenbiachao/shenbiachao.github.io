@@ -5,7 +5,7 @@ permalink: /publication/dads
 header:
   teaser: publications/ili.png
 title: "Internal Logical Induction for Pixel-Symbolic Reinforcement Learning"
-authors: "<i> Jiacheng Xu*, <b>Chao Chen*</b>, Fuxiang Zhang, Lei Yuan, Zongzhang Zhang<sup>†</sup>, Yang Yu </i>"
+authors: "<i> Jiacheng Xu, <b>Chao Chen</b>, Fuxiang Zhang, Lei Yuan, Zongzhang Zhang<sup>†</sup>, Yang Yu </i>"
 
 paper_url: https://dl.acm.org/doi/abs/10.1145/3580305.3599393
 mainpage_url: 
