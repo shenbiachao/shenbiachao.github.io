@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bowie / Homepage"
+title                    : "Chao Chen / Homepage"
 title_separator          : "-"
-name                     : &name "Xiao Bowen"
-description              : &description "undergraduate in PKU"
-url                      : https://Bowie375.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chao Chen"
+description              : &description "Ph.D. student in PKU"
+url                      : https://shenbiachao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Bowie375/Bowie375.github.io"
+repository               : "shenbiachao/shenbiachao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xiao Bowen"
-  avatar           : "profile.png"
-  bio              : "Undergraduate student in PKU"
+  name             : "Chao Chen"
+  avatar           : "profile.jpg"
+  bio              : "Ph.D. student in PKU"
   location         : "Beijing,China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BpIb0x4AAAAJ&hl=en"
-  email            : "bowiexiao77@gmail.com"
+  email            : "181840013@smail.nju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Bowie375"
+  github           : "shenbiachao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0006-1000-6168"
+  orcid            :
   pinterest        :
   soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  WeChat           : "15871828816"
+  WeChat           :
 
 # Reading Files
 include:

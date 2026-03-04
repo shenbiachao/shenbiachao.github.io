@@ -1,12 +1,11 @@
-# Bowie375
-This is my [web homepage.](https://Bowie375.github.io)
+# shenbiachao
+This is my [web homepage.](https://shenbiachao.github.io)
 
 ---
 
 ## Instructions
 1. To modify the main page, edit the `_pages/about.md` file. 
-2. To add publications, create a new file under the `_publications` directory. 
-3. To modify CV, change the file under `files/resume.pdf`
+2. To add publications, create a new file under the `_publications` directory.
 4. To create new pages, modify the `_data/navigation.yml` file.
 5. To modify style, edit `_sass/*` files.
 
